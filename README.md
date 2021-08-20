@@ -30,6 +30,7 @@ Paypal, Stripe, Affinipay, Braintree and Bigcommerce are the top common name in 
 
 The growth of digital market and development of technology create both opportunity and challege to Square. 
     * _Opportunities_: The increasing market size creates more room for the company to grow. Square can take advantage of the technology to differentiate itself, improve  their service and creates new products or services.
+    
     * _Challenges_: The market that Square is operating is challenging with increasing numbers of competitors and constant change in teachnology. If the company is not actively keep up with the technology and innovation, they will easily lose their competitive advantage.
 
 
